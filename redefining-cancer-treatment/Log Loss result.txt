@@ -1,0 +1,19 @@
+NB
+Value of Alpha is:0.1 its Logloss for Train is :1.0078860029174828
+Value of Alpha is:0.1 its Logloss for CV is :1.278851844558869
+Value of Alpha is:0.1 its Logloss for Test is :1.3044806587056048
+
+KNN
+Value of Alpha is:11 its Logloss for Train is :1.1250515372272583
+Value of Alpha is:11 its Logloss for CV is :1.3099404362179219
+Value of Alpha is:11 its Logloss for Test is :1.2987107886574805
+
+LR - Balancing
+Value of Alpha is:1 its Logloss for Train is :0.7742085106742166
+Value of Alpha is:1 its Logloss for CV is :1.1467572148370693
+Value of Alpha is:1 its Logloss for Test is :1.1839966537821676
+
+LR - No Balancing
+Value of Alpha is:1 its Logloss for Train is :0.7777615294865157
+Value of Alpha is:1 its Logloss for CV is :1.1519808566389202
+Value of Alpha is:1 its Logloss for Test is :1.1825423888135564
